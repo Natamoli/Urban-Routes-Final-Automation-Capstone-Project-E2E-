@@ -24,7 +24,7 @@ I implemented the **Page Object Model (POM)** design pattern to build a scalable
 Before writing the first line of code, I mapped out the application logic to ensure total test coverage.
 
 **Project Mind Map**
-[<p align="center"> <img src="YOUR_MIND_MAP_LINK_HERE" alt="Urban Routes Automation Mind Map" width="750"> </p>](https://drive.google.com/file/d/18vA-vnK74hV6TRKWICijZHp14VlXsow5/view?usp=sharing)
+https://drive.google.com/file/d/18vA-vnK74hV6TRKWICijZHp14VlXsow5/view?usp=sharing
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ Before writing the first line of code, I mapped out the application logic to ens
 
 ## 📂 Project Deliverables
 
-* Full Documentation (6-Sheet Report): Detailed test design, checklists, and execution logs.
+* Full Documentation (6-Sheet Report): Detailed test design, checklists, and execution logs. https://docs.google.com/spreadsheets/d/1tgm1U_2mU58A_5jcfU8cAyzXbE80wE-v/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true
 
 * Automation Scripts: Located in the **/tests** folder of this repository.
 
